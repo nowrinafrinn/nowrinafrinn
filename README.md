@@ -43,10 +43,16 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nowrinafrinn&theme=tokyonight&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nowrinafrinn&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nowrinafrinn&layout=compact&theme=tokyonight)
+## 💖 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nowrinafrinn&show_icons=true&theme=rose_pine&title_color=ff79c6&icon_color=ff79c6&text_color=f2a2e8&bg_color=0d1117" height="160" />
+  <img src="https://streak-stats.demolab.com?user=nowrinafrinn&theme=dracula&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&background=0d1117" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowrinafrinn&layout=compact&theme=rose_pine&title_color=ff79c6&text_color=f2a2e8&bg_color=0d1117" height="160" />
+</p>
 
 ---
 
