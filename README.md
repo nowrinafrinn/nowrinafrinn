@@ -43,7 +43,7 @@
 
 ---
 
-## 💖 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nowrinafrinn&show_icons=true&theme=rose_pine&title_color=ff79c6&icon_color=ff79c6&text_color=f2a2e8&bg_color=0d1117" height="160" />
@@ -51,7 +51,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowrinafrinn&layout=compact&theme=rose_pine&title_color=ff79c6&text_color=f2a2e8&bg_color=0d1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&title_color=ff79c6&text_color=f2a2e8&bg_color=0d1117" width="460" height="200" />
+
 </p>
 
 ---
