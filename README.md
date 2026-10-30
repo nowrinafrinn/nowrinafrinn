@@ -1,74 +1,177 @@
-# Hi there, I'm Nowrin 👋  
 
-## 🎓 About Me:
-- 🧠 Computer Science and Engineering undergraduate at BRAC University  
-- 🔍 Deeply interested in theoretical CS, computational models, and data-driven research  
-- 📚 Engaged in academic exploration involving algorithms, learning theory  
-- ✍️ Aspiring to contribute to open research and peer-reviewed publications  
-    
+# Hi there, I'm Nowrin! 👋
 
----
+### Computer Science & Engineering Graduate | Software Development | AI & Data
 
-## 📫 How to Reach Me :
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nowrinafrinn)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n.aww.rin/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nowrinafrinn/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nowrin.afrin@g.bracu.ac.bd)
+🎓 **CSE Graduate from BRAC University**, graduating with **Highest Distinction**.
+
+💻 Passionate about building practical software solutions, exploring artificial intelligence, and solving real-world problems through technology.
+
+🌱 Interested in **Full-Stack Development, Machine Learning, Data Analytics, and Software Engineering**.
+
+🔬 Also interested in theoretical computer science, algorithms, and research-driven applications of AI.
+
+🚀 Currently exploring opportunities to gain industry experience, collaborate on projects, and further develop my technical skills.
 
 ---
 
-## 💻 Language and Tools :
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+## 🛠️ Technical Skills
+
+### 👩‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🤖 AI, Machine Learning & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nowrinafrinn&show_icons=true&theme=rose_pine&title_color=ff79c6&icon_color=ff79c6&text_color=f2a2e8&bg_color=0d1117" height="160" />
-  <img src="https://streak-stats.vercel.app?user=nowrinafrinn&theme=dracula&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&background=0d1117" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowrinafrinn&layout=compact&theme=rose_pine&title_color=ff79c6&text_color=f2a2e8&bg_color=0d1117" width="460" height="200" />
-
-</p>
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
+## 🚀 Featured Projects
 
+### 💼 [CareerLens — Career Intelligence Platform](https://github.com/nowrinafrinn/careerlens)
+**[🌐 Live Demo](https://careerlens-opal.vercel.app)**
 
+A full-stack career management platform that helps users understand job requirements, analyze CV evidence, identify skill gaps, and organize job applications.
 
-<!--
-**nowrinafrinn/nowrinafrinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Key Features:**
+- Job description analysis and CV evidence matching
+- Application tracking and recruitment round management
+- Interview preparation and journaling
+- Rule-based, explainable career insights
+- User authentication and private CV storage
 
-Here are some ideas to get you started:
+**Tech Stack:** FastAPI, Next.js, TypeScript, PostgreSQL, Supabase, SQLAlchemy, Tailwind CSS, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💰 [Taka Koi Gelo? — Student Expense Manager](https://github.com/nowrinafrinn/Taka-Koi-Gelo-)
+**[🌐 Live Demo](https://taka-koi-gelo.vercel.app)**
+
+A full-stack personal finance application designed to help students in Bangladesh manage their money more effectively.
+
+**Key Features:**
+- Income and expense tracking
+- Monthly budgeting and savings goals
+- Financial visualization and spending summaries
+- Rule-based financial reports
+- Interactive Three.js 3D wallet interface
+
+**Tech Stack:** Django, Python, PostgreSQL, Supabase, JavaScript, Three.js, Docker, Vercel
+
+### 🤝 [SkillSwap — Peer-to-Peer Skill Exchange Platform](https://github.com/nowrinafrinn/SkillSwap)
+**[🌐 Live Demo](https://skillswap-nine-drab.vercel.app)**
+
+A community-driven application that allows users to exchange skills, connect with others, and collaborate through a shared learning platform.
+
+**Key Features:**
+- Skill listings and exchange requests
+- Private messaging and community forum
+- Ratings and reviews
+- Location-based user map
+- Administrative dashboard
+
+**Tech Stack:** Next.js, React, TypeScript, Node.js, Express.js, MongoDB, Tailwind CSS, Leaflet
+
+### 🧠 Brain Tumor Detection & Segmentation — Attention U-Net
+
+A deep learning project focused on brain tumor classification and medical image segmentation.
+
+**Highlights:**
+- Multi-task Attention U-Net architecture
+- 97% classification accuracy and 87% Dice score
+- Training dataset containing 5k+ images and 3.9k masks
+- Data augmentation and GPU-accelerated training
+
+**Tech Stack:** PyTorch, NumPy, Matplotlib, CUDA
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 🎓 **Highest Distinction** — BRAC University (CGPA: 3.81/4.00)
+- 🏅 **Vice Chancellor's List** — 4 semesters
+- 📜 **Dean's List** — 5 semesters
+- 🎖️ **25% Merit Scholarship** — 12 consecutive semesters
+- 💡 **UIHP Pre-Seed Fund — BDT 40,000** — University Innovation Hub Program, ICT Division (2025)
+
+---
+
+## 👩‍🏫 Experience & Leadership
+
+**Robotics Trainer (Part-Time) | Octobrain**
+- Participating in trainer development activities focused on robotics, STEM education, and workshop delivery.
+
+**Co-Instructor — Machine Learning Fundamentals | BRAC University**
+- Conducted machine learning sessions for 30+ students.
+- Developed learning resources and Python-based practice materials.
+- Supported students with assignments, debugging, and technical concepts.
+
+**Director, Event Management | BRAC University Computer Club**
+- Leading a department with 300+ members.
+- Coordinating technical events with faculty, administration, and industry representatives.
+- Mentoring junior members and contributing to event organization and communication.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nowrinafrinn&show_icons=true&theme=rose_pine&title_color=ff79c6&icon_color=ff79c6&text_color=f2a2e8&bg_color=0d1117" height="160" alt="GitHub Statistics" />
+  <img src="https://streak-stats.demolab.com?user=nowrinafrinn&theme=dracula&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6&background=0d1117" height="160" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowrinafrinn&layout=compact&theme=rose_pine&title_color=ff79c6&text_color=f2a2e8&bg_color=0d1117" height="190" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nowrinafrinn/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nowrinafrin00@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nowrinafrinn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n.aww.rin/)
+
+---
+
+<p align="center">
+  <i>Building, learning, and exploring one project at a time.</i>
+</p>
