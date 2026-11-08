@@ -109,6 +109,7 @@ A community-driven application that allows users to exchange skills, connect wit
 
 **Tech Stack:** Next.js, React, TypeScript, Node.js, Express.js, MongoDB, Tailwind CSS, Leaflet
 
+---
 
 ## 📊 GitHub Statistics
 
