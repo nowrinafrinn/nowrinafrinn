@@ -109,46 +109,6 @@ A community-driven application that allows users to exchange skills, connect wit
 
 **Tech Stack:** Next.js, React, TypeScript, Node.js, Express.js, MongoDB, Tailwind CSS, Leaflet
 
-### 🧠 Brain Tumor Detection & Segmentation — Attention U-Net
-
-A deep learning project focused on brain tumor classification and medical image segmentation.
-
-**Highlights:**
-- Multi-task Attention U-Net architecture
-- 97% classification accuracy and 87% Dice score
-- Training dataset containing 5k+ images and 3.9k masks
-- Data augmentation and GPU-accelerated training
-
-**Tech Stack:** PyTorch, NumPy, Matplotlib, CUDA
-
----
-
-## 🏆 Achievements & Recognition
-
-- 🎓 **Highest Distinction** — BRAC University (CGPA: 3.81/4.00)
-- 🏅 **Vice Chancellor's List** — 4 semesters
-- 📜 **Dean's List** — 5 semesters
-- 🎖️ **25% Merit Scholarship** — 12 consecutive semesters
-- 💡 **UIHP Pre-Seed Fund — BDT 40,000** — University Innovation Hub Program, ICT Division (2025)
-
----
-
-## 👩‍🏫 Experience & Leadership
-
-**Robotics Trainer (Part-Time) | Octobrain**
-- Participating in trainer development activities focused on robotics, STEM education, and workshop delivery.
-
-**Co-Instructor — Machine Learning Fundamentals | BRAC University**
-- Conducted machine learning sessions for 30+ students.
-- Developed learning resources and Python-based practice materials.
-- Supported students with assignments, debugging, and technical concepts.
-
-**Director, Event Management | BRAC University Computer Club**
-- Leading a department with 300+ members.
-- Coordinating technical events with faculty, administration, and industry representatives.
-- Mentoring junior members and contributing to event organization and communication.
-
----
 
 ## 📊 GitHub Statistics
 
